@@ -4,10 +4,11 @@ A comprehensive Spring Boot REST API for managing school safety incident reports
 
 ## 👨‍💻 Author
 
-**Student Name:** Gaju Diego  
+**Student Name:** Gaju Diego 
+
 **Student ID:** 27395
+
 **Course:** Web Technology and Internet
-**Assessment:** Mid-Semester Practical Exam
 
 ## Project Overview
 
